@@ -6,3 +6,4 @@ geopy
 plotly
 scikit-learn
 scipy
+openpyxl
